@@ -412,3 +412,4 @@ FodyWeavers.xsd
 *.vsix
 
 .vscode/*
+**/.vscode/
